@@ -1,4 +1,4 @@
-# SplitViewSwiftUI
+# SidebarSwiftUI
 This SwiftUI project allows users to view a list of names in a left sidebar, which collapses in compact mode. When selecting a name from the sidebar, the details of the selected name are displayed in the main view on the right.
 
 # Feature
